@@ -14,6 +14,5 @@ This project is about the classification of 17 wallpaper groups.
 ## How to Use
 
 run:
-
-​	ClassificationDemo.py
+	ClassificationDemo.py
 
