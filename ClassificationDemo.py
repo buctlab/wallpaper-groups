@@ -116,6 +116,5 @@ class Prediction:
         result = [self.classes_name[index] for (index, value) in enumerate(distance) if value == min(distance)]
         print('prediction:', result)
 
-
 if __name__ == '__main__':
     Prediction(img_path='p6m.png')
