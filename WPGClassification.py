@@ -71,12 +71,12 @@ class Prediction:
                              [0, 1, 0, 1, 1, 0, 0],
                              [0, 1, 0, 1, 1, 1, 0]]
         pth_path = 'net/'
-        self.pth_files = [pth_path + '1-epoch_18_20_2021-05-14_22.47.10.pkl',
-                          pth_path + '2-epoch_8_20_2021-05-15_00.01.15.pkl',
-                          pth_path + '3-epoch_15_20_2021-05-15_01.14.48.pkl',
-                          pth_path + '4-epoch_16_20_2021-05-15_02.20.30.pkl',
-                          pth_path + '5-epoch_13_20_2021-05-15_03.35.12.pkl',
-                          pth_path + '6-epoch_11_20_2021-05-16_14.12.00.pkl'
+        self.pth_files = [pth_path + '1-epoch_18_20_2025-03-14_22.47.10.pkl',
+                          pth_path + '2-epoch_8_20_2025-03-15_00.01.15.pkl',
+                          pth_path + '3-epoch_15_20_2025-03-15_01.14.48.pkl',
+                          pth_path + '4-epoch_16_20_2025-03-15_02.20.30.pkl',
+                          pth_path + '5-epoch_13_20_2025-03-15_03.35.12.pkl',
+                          pth_path + '6-epoch_11_20_2025-03-16_14.12.00.pkl'
                           ]
         self.prediction()
 
