@@ -117,4 +117,4 @@ class Prediction:
         print('prediction:', result)
 
 if __name__ == '__main__':
-    Prediction(img_path='p6m.png')
+    Prediction(img_path='Example-p6m.png')
