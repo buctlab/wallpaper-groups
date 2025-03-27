@@ -8,7 +8,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cv2
 
-
 def draw_features(width, height, x, save_name):
     fig = plt.figure(figsize=(16, 16))
     fig.subplots_adjust(left=0.05, right=0.95, top=0.95, wspace=0.05, hspace=0.05)
